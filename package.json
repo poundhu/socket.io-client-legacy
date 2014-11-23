@@ -1,0 +1,7 @@
+{
+  "name": "socket.io-client-legacy",
+  "version": "0.0.2",
+  "dependencies": {
+    "socket.io-client": "0.9.16"
+  }
+}
