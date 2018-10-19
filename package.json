@@ -1,7 +1,7 @@
 {
   "name": "socket.io-client-legacy",
   "version": "0.0.2",
-  "description": "socket.io-client 0.9.16 legacy",
+  "description": "socket.io-client 0.9.18 legacy",
   "author": "miles",
   "repository": {
     "type": "git",
@@ -9,6 +9,6 @@
   },
   "main": "index",
   "dependencies": {
-    "socket.io-client": "0.9.16"
+    "socket.io-client": "0.9.18"
   }
 }
