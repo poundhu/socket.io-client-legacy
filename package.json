@@ -9,6 +9,6 @@
   },
   "main": "index",
   "dependencies": {
-    "socket.io-client": "0.9.18"
+    "socket.io-client": "1.7.3"
   }
 }
