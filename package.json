@@ -5,7 +5,7 @@
   "author": "miles",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milescui/socket.io-client-legacy.git"
+    "url": "https://github.com/poundhu/socket.io-client-legacy.git"
   },
   "main": "index",
   "dependencies": {
