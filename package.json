@@ -1,14 +1,29 @@
 {
-  "name": "socket.io-client-legacy",
-  "version": "0.0.2",
-  "description": "socket.io-client 0.9.18 legacy",
-  "author": "miles",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/poundhu/socket.io-client-legacy.git"
-  },
-  "main": "index",
-  "dependencies": {
-    "socket.io-client": "1.7.3"
-  }
+	"name": "@gradeup/socket-io-legacy",
+	"version": "1.0.0",
+	"description": "Re exported legacy socket libs",
+	"license": "MIT",
+	"repository": "gradeup/socket-io-legacy",
+	"author": {
+		"name": "Nikhil Srivastava",
+		"email": "niksrc@gmail.com",
+		"url": "gradeup.github.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"legacy support socketio"
+	],
+	"dependencies": {
+		"socket.io": "^1.4.5",
+		"socket.io-emitter": "^1.0.0",
+		"socket.io-redis": "^1.0.0"
+	},
+	"devDependencies": {
+		"xo": "^0.18.2"
+	}
 }
